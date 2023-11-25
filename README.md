@@ -17,9 +17,9 @@ The data for this study is sourced from the UCI Machine Learning Repository and 
 ## Project Overview
 - Notebooks:
     1. Patient_ReadmissionNotebook.ipynb:
-        - Examining_Initial_Dataset.ipynb: Analyzing the initial dataset and loading the heart disease data.
-        - Creating_Three_Extra_Attributes.ipynb: Generating three additional attributes (Heart Health Score, Chest Pain Level, Risk Score) based on the initial dataset.
-        - Examining_New_Dataset.ipynb: Analyzing the new dataset with added features.
+        - Examining Initial Dataset: Analyzing the initial dataset and loading the heart disease data.
+        - Creating Three Extra Attributes: Generating three additional attributes (Heart Health Score, Chest Pain Level, Risk Score) based on the initial dataset.
+        - Examining New Dataset: Analyzing the new dataset with added features.
     2. Objective_1.ipynb: Implementing machine learning models to predict heart disease-related readmissions.
     3. Objective_2.ipynb: Investigating the relationship between Heart Health Score and Chest Pain Level
     4. Objective_3.ipynb: Analyzing Risk Score and its impact on heart disease-related readmissions.
@@ -30,6 +30,7 @@ The data for this study is sourced from the UCI Machine Learning Repository and 
 ### Predictive Modeling
 The pipeline that is being used to accomplish the predictive application for the report’s
 3 main objective goals is as follow:
+
 ![Alt text](<Screenshot 2023-11-13 at 7.07.05 PM.png>)
 
 ### Conclusion:
