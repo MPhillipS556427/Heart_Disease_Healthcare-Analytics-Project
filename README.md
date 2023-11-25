@@ -40,7 +40,7 @@ Applying a Random Forest Classifier model to a dataset enriched with supplementa
 
 
 ## Overleaf Report
-For a detailed report and in-depth analysis, refer to the Overleaf report at https://www.overleaf.com/read/jpzyqsrmckyq#d8e51e.
+For a detailed report and in-depth analysis, refer to the Overleaf report at https://www.overleaf.com/read/jpzyqsrmckyq#d8e51e or Phillip_Capstone_Project_Report Module 6.pdf
 
 ## Reference
 
